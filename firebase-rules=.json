@@ -1,0 +1,8 @@
+  const firebaseConfig = {
+    apiKey: "AIzaSyD_FPYrllN9AGVvee-Nw-s5Arofcm2yGzc",
+    authDomain: "otw-tracker.firebaseapp.com",
+    projectId: "otw-tracker",
+    storageBucket: "otw-tracker.firebasestorage.app",
+    messagingSenderId: "192437240181",
+    appId: "1:192437240181:web:a6f64261fd58393586933c"
+  };
